@@ -1,14 +1,15 @@
 <?php
 //require 'visibility.php';
-//require 'pr&mth.php';
+//require 'properties&methods.php';
 //require 'cons&desc.php';
-//require 'delobj.php';
-//require 'spr&smth.php';
+//require 'delete_obj.php';
+//require 'static_propertie&methods.php';
 //declare(strict_types = 1);
 //require 'declaration.php';
 //require 'scope1.php';
 //require 'scope2.php';
-require 'interfaces.php';
+//require 'interfaces.php';
+require 'abstract.php';
 
 ?>
 <!DOCTYPE html>
